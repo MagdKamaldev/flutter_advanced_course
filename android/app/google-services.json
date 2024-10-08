@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "286002132683",
+    "project_id": "docdoc-22b2c",
+    "storage_bucket": "docdoc-22b2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286002132683:android:d87c6853cafe78ddd58d4e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_advanced_course"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyGZyp66BBb-YIWMi3OC5-r6f27RLd5cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
